@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![image](https://cdn.discordapp.com/attachments/1100523749419270296/1104505701604266084/logo.png)">
+  ![image](https://user-images.githubusercontent.com/59174414/236679046-88c0452f-4862-4155-a889-e669d0114586.png)
 </div>
 <h1 align="center">Funcraft Revemp</h1>
 
