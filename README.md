@@ -8,9 +8,7 @@
 Bienvenu sur le github d'un projet qui me tien a coeur, mon premier site fais de 0 par moi!
 En gros il était 23h, j'était sur le live de Moyo et je me suis dit pourquoi pas refaire le site de Funcraft en version modern/ma sauce, donc voila ahah
 
-<code>
-  Site en construction biensur
-</code>
+<code>🚧 Site en construction bien évidemment...</code>
 
 ## 🤯Comment t'a fais?
 
