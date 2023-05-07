@@ -1,6 +1,4 @@
-<div align="center">
-  ![image](https://user-images.githubusercontent.com/59174414/236679046-88c0452f-4862-4155-a889-e669d0114586.png)
-</div>
+![image](https://user-images.githubusercontent.com/59174414/236679053-960b22b0-b340-422d-b239-64faa99cf678.png)
 <h1 align="center">Funcraft Revemp</h1>
 
 ## ✨Information
